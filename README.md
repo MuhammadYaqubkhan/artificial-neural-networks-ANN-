@@ -1,2 +1,2 @@
-# artificial-neural-networks-ANN-
-artificial neural networks (ANN) Projects
+# Artificial-neural-networks-ANN-
+Artificial neural networks (ANN) Projects
